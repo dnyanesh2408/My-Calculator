@@ -10,9 +10,9 @@ It very light weight and loads very fast.
 
 > Learn more about this project to see this repo.
 
-> Thanks for visiting this repo.
-
 > For see the live project visit the below link
 
 Visit https://bit.ly/3qvounw
+
+> Thanks for visiting this repo.
 
