@@ -6,7 +6,7 @@ Technology Used: Html, CSS, JavaScript.
 
 Members: 2
 
-> Learn more about this project to see this repo.
+> Learn more about this project to see this repo. [https://github.com/dnyanesh2408/My-Calculator](url)
 
 `Output`
 
