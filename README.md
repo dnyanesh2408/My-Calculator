@@ -14,7 +14,7 @@ Visit https://bit.ly/3qvounw
 
 ![My Calculator Screenshot](https://user-images.githubusercontent.com/61074868/189536869-072923c1-e2c1-4ff8-b902-de1d5cec7a04.png)
 
-> Learn more about this project to see this repo. [https://github.com/dnyanesh2408/My-Calculator](url)
+> Learn more about this project to see the project report document at. https://github.com/dnyanesh2408/My-Calculator/blob/main/Mini%20Project%20Report%20-%20My%20Calculator.pdf
 
 _Thanks for visiting this repo. | 11/9/2022._
 
