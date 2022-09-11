@@ -6,7 +6,7 @@ Technology Used: Html, CSS, JavaScript.
 
 Members: 2
 
-> Learn more about this project to see this repo. [https://bit.ly/3RTDS8P](url)
+> Learn more about this project to see this repo.
 
 `Output`
 
