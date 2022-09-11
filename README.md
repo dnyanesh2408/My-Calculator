@@ -8,5 +8,11 @@ This web appliaction functionalities for calculation such as Addtion, Subtractio
 
 It very light weight and loads very fast.
 
-Visit
+> Learn more about this project to see this repo.
+
+> Thanks for visiting this repo.
+
+> For see the live project visit the below link
+
+Visit https://bit.ly/3qvounw
 
