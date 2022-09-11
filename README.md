@@ -9,6 +9,7 @@ Members: 2
 > Learn more about this project to see this repo. [https://github.com/dnyanesh2408/My-Calculator](url)
 
 `Output`
+_Desktop_
 
 ![My Calculator Screenshot](https://user-images.githubusercontent.com/61074868/189536869-072923c1-e2c1-4ff8-b902-de1d5cec7a04.png)
 
