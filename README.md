@@ -16,5 +16,5 @@ Visit https://bit.ly/3qvounw
 
 > Learn more about this project to see this repo. [https://github.com/dnyanesh2408/My-Calculator](url)
 
-> Thanks for visiting this repo. | 11/9/2022.
+_Thanks for visiting this repo. | 11/9/2022._
 
