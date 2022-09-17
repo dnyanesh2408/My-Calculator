@@ -6,9 +6,7 @@ Technology Used: Html, CSS, JavaScript.
 
 Members: 2
 
-> For the live deployment visit the below link.
-
-Visit https://bit.ly/3qvounw
+Visit Live https://bit.ly/3qvounw
 
 `Output`
 
